@@ -1,0 +1,3 @@
+# Tailwind CSS Styling Issues
+
+This repository demonstrates a common issue encountered when using Tailwind CSS: unexpected styling behaviors where classes are seemingly ignored or produce unintended results.  This can stem from various sources, including conflicting class names, incorrect class usage, missing or incorrectly configured plugins, or a mismatch between Tailwind's configuration and how it's being used in the project.  The example showcases a scenario where expected styling doesn't occur, and the solution file offers a fix demonstrating how to correctly resolve such issues.  This demonstrates troubleshooting and debugging practices within the Tailwind CSS environment.
